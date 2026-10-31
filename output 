@@ -1,0 +1,4 @@
+BFS traversal: Root Documents Pictures Projects notes.txt photo.jpg
+BFS result: File found
+DFS traversal: Root Documents notes.txt Pictures photo.jpg Projects
+DFS result: File found
